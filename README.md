@@ -50,8 +50,6 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mantineui" height="40" alt="mantineui logo"  />
 </div>
 
 ###
