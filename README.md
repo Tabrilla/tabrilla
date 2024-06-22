@@ -1,6 +1,12 @@
-<h6 align="left">🌐 Social Media Accounts:</h6>
+<h6 align="left">👁️ Gthub View:</h6>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/tabrilla/count.svg?"  />
+</div>
 
 ###
+
+<h6 align="left">🌐 Social Media Accounts:</h6>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tabrilla-angeles/" target="_blank">
@@ -53,5 +59,31 @@
 ###
 
 <p align="center">Most of my projects are in private repositories due to client confidentiality agreements and cannot be publicly shared. However, I am able to provide more information and discuss my experience in detail if required. Feel free to reach out to me!</p>
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tabrilla&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="120" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tabrilla&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <img src="https://streak-stats.demolab.com?user=tabrilla&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=0&order=3" height="120" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/tabrilla/tabrilla/output/snake.svg" alt="Snake animation" />
 
 ###
