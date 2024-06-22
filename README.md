@@ -50,6 +50,12 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <!-- Custom icon -->
+  <img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" height="40" alt="bun logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/79146003?s=280&v=4" height="40" alt="mantine ui logo"  />
+   
 </div>
 
 ###
