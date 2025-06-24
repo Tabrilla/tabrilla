@@ -61,6 +61,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grails/grails-original.svg" height="35" alt="grails logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="35" alt="groovy logo"  />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" height="35" alt="bun logo"  />
 </div>
 
 ###
