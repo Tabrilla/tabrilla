@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Tabrilla/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/tabrilla/count.svg?"  />
 </div>
 
 ###
@@ -144,7 +144,7 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Tabrilla/Tabrilla/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tabrilla/Tabrilla/output/snake.svg" alt="Snake animation" />
+</div>
 ###
