@@ -63,6 +63,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="35" alt="groovy logo"  />
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" height="35" alt="bun logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="35" alt="prisma logo"  />
 </div>
 
 ###
@@ -78,7 +80,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="35" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="35" alt="prisma logo"  />
+  <img src="https://github.com/user-attachments/assets/907beffc-168a-42f5-985c-8bd6aaacdbc4" height="35" alt="neon db logo"  />
 </div>
 
 ###
@@ -95,6 +97,8 @@
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/9e571d57-5453-4a96-98e7-465ba9071604" height="35" alt="jasperserver studio logo"  />
 </div>
 
 ###
