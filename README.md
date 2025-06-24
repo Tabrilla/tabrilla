@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/be54bca8-10b3-4a5e-9204-b60ac144723e)<h6 align="left">👁️ Gthub View</h6>
+<h6 align="left">👁️ Gthub View</h6>
 
 ###
 
@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=materialui" height="35" alt="materialui logo"  />
   <!-- Custom Icons -->
   <img width="12" />
-  <img src="![image](https://github.com/user-attachments/assets/7b15702c-ffb3-4e4e-a92f-5e32a39776e2)" height="35" alt="material tailwind"  />
+  <img src="https://github.com/user-attachments/assets/7b15702c-ffb3-4e4e-a92f-5e32a39776e2" height="35" alt="material tailwind"  />
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/79146003?s=280&v=4" height="35" alt="mantine ui logo"  />
 </div>
