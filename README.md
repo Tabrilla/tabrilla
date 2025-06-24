@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=materialui" height="35" alt="materialui logo"  />
   <!-- Custom Icons -->
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui](https://www.material-tailwind.com/image/logo-mt.png" height="35" alt="material tailwind"  />
+  <img src="https://skillicons.dev/icons?i=materialui](https://www.material-tailwind.com/image/logo-mt.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvSSm01EKO0jN1pcqRu1I7RkrRMleQAirhOg&s" height="35" alt="material tailwind"  />
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/79146003?s=280&v=4" height="40" alt="mantine ui logo"  />
 </div>
