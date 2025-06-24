@@ -40,6 +40,11 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=materialui" height="35" alt="materialui logo"  />
+  <!-- Custom Icons -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=materialui](https://www.material-tailwind.com/image/logo-mt.png" height="35" alt="material tailwind"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/79146003?s=280&v=4" height="40" alt="mantine ui logo"  />
 </div>
 
 ###
@@ -147,4 +152,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tabrilla/Tabrilla/output/snake.svg" alt="Snake animation" />
 </div>
-###
