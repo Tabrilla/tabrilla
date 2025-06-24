@@ -99,6 +99,8 @@
   <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/9e571d57-5453-4a96-98e7-465ba9071604" height="35" alt="jasperserver studio logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/7a47868c-8dae-461e-b329-42fd80a71b3d" height="35" alt="render logo"  />
 </div>
 
 ###
@@ -138,7 +140,11 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
+  <img src="https://github.com/user-attachments/assets/4a236309-8791-49d5-9d70-daba07d5c8c9" height="35" alt="accounting logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/ee059d79-48ab-4346-9d94-352911f6ef08" height="35" alt="sap business one logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/c1103210-0dc2-456c-8c40-ec3d77827e0b" height="35" alt="ms word logo"  />
 </div>
 
 ###
